@@ -1,0 +1,14 @@
+数据库名：booksystem
+
+表名1：users
+用户名   密码
+uname   upassword
+nchar       nvarchar(50)
+
+表名2：books（暂定）
+序列号  图书名  作者    出版社
+id         bname  author  press
+int         nchar   nchar  nchar
+
+
+
